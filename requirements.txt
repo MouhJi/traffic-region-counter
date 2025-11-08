@@ -1,0 +1,22 @@
+# Core dependencies
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+tqdm>=4.66.0
+requests>=2.31.0
+pyyaml>=6.0.1
+scipy>=1.10.0
+
+# YOLO + Tracking Solution
+ultralytics>=8.3.0
+
+# Visualization and region utilities
+supervision>=0.26.0
+shapely>=2.0.1
+
+# Optional (for notebooks)
+ipython
+jupyter
